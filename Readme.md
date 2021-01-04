@@ -9,7 +9,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 4. Dizirei
 5. Zaccaryah
 6. Rayhaan
-7. Elize
+7. Elise
 8. Cedric
 9. abadilmoneem
 
