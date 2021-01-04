@@ -6,12 +6,12 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 1. Daudi
 2. Valéry
 3. Fransois
-4. Dizirei
+4. Désiré
 5. Zaccaryah
-6. Rayhaan
+6. Rayane
 7. Elise
 8. Cedric
-9. abadilmoneem
+9. Abdelmounaim
 
 ## Correction des noms avec des Pull Requests
 
