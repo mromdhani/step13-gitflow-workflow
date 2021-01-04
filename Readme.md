@@ -7,7 +7,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 2. Valéry
 3. Fransois
 4. Désiré
-5. Zakaria
+5. Zakaria 
 6. Rayane
 7. Elise
 8. Cedric
