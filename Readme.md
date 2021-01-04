@@ -8,7 +8,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 3. Fransois
 4. Dizirei
 5. Zaccaryah
-6. Rayhaan
+6. Rayane
 7. Elize
 8. Cedric
 9. Abdelmounaim
