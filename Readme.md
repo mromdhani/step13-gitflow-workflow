@@ -3,7 +3,7 @@
 Dans cet exercice, nous implémentons une collaboration à base de `Pull Requests`pour corriger les typos dans la liste des noms donnée ci-dessous. 
 
 ## La Dream Team 
-1. Daudi
+1. Doddy
 2. Valérie
 3. Fransois
 4. Désiré
