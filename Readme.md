@@ -5,7 +5,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 ## La Dream Team 
 1. Doddy
 2. Valérie
-3. Fransois
+3. François
 4. Désiré
 5. Zakaria 
 6. Rayane
