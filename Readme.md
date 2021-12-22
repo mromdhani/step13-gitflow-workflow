@@ -3,7 +3,7 @@
 Dans cet exercice, nous implémentons une collaboration à base de `Pull Requests`pour corriger les typos dans la liste des noms donnée ci-dessous. 
 
 ## La Dream Team 
-1. Atooiine
+1. Antoine
 2. Daanieel
 3. Feeliix
 4. Ollggua
