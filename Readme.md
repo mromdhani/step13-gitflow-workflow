@@ -5,13 +5,14 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 ## La Dream Team 
 1. Antoine
 2. Daniel
-3. Feeliix
-4. Ollggua
+3. Felix
+4. Olga
 5. Jooraam 
 6. Nicolas
-7. Saaaiiid
-8. Tan Phan
-9. Annh Tôôn
+7. Saïd
+8. Tan
+9. Anh-Tôn
+
 ## Correction des noms avec des Pull Requests
 
 1. **Step 1:** Create a Fork de ce repo sur votre propre GitHub.
