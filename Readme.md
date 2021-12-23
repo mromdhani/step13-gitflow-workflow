@@ -4,7 +4,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 
 ## La Dream Team 
 1. Antoine
-2. Daanieel
+2. Daniel
 3. Felix
 4. Olga
 5. Jooraam 
