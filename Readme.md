@@ -9,7 +9,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 4. Olga
 5. Jooraam 
 6. Nicolas
-7. Saaaiiid
+7. Saïd
 8. Tan
 9. Annh Tôôn
 ## Correction des noms avec des Pull Requests
