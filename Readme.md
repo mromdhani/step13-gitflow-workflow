@@ -6,7 +6,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 1. Antoine
 2. Daanieel
 3. Feeliix
-4. Ollggua
+4. Olga
 5. Jooraam 
 6. Nicolas
 7. Saaaiiid
