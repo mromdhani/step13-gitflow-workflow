@@ -11,7 +11,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 6. Niicoolas
 7. Saaaiiid
 8. Taaann
-9. Annh Tôôn
+9. Anh-Tôn
 ## Correction des noms avec des Pull Requests
 
 1. **Step 1:** Create a Fork de ce repo sur votre propre GitHub.
