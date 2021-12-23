@@ -7,7 +7,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 2. Daniel
 3. Felix
 4. Olga
-5. Jooraam 
+5. Joram 
 6. Nicolas
 7. Saïd
 8. Tan
