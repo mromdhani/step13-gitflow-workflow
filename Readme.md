@@ -3,15 +3,16 @@
 Dans cet exercice, nous implémentons une collaboration à base de `Pull Requests`pour corriger les typos dans la liste des noms donnée ci-dessous. 
 
 ## La Dream Team 
-1. Atooiine
+1. Antoine
 2. Daanieel
 3. Feeliix
 4. Ollggua
 5. Jooraam 
-6. Niicoolas
+6. Nicolas
 7. Saaaiiid
-8. Taaann
+8. Tan Phan
 9. Anh-Tôn
+
 ## Correction des noms avec des Pull Requests
 
 1. **Step 1:** Create a Fork de ce repo sur votre propre GitHub.
