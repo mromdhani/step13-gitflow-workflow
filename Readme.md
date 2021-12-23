@@ -7,7 +7,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 2. Daanieel
 3. Feeliix
 4. Ollggua
-5. Jooraam 
+5. Joram 
 6. Nicolas
 7. Saaaiiid
 8. Tan Phan
