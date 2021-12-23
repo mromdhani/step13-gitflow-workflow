@@ -5,7 +5,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 ## La Dream Team 
 1. Antoine
 2. Daanieel
-3. Feeliix
+3. Felix
 4. Ollggua
 5. Jooraam 
 6. Nicolas
